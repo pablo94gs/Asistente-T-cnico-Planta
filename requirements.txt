@@ -4,3 +4,4 @@ openpyxl
 Pillow
 requests
 pdfplumber
+plotly
